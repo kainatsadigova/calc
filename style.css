@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.calculator{
+    width: 250px;
+    height: 400px;
+    background-color: rgb(134, 80, 55);
+    border-radius: 15px;
+}
+.ust{
+    width: 200px;
+    height: 60px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    padding-left: 30px;
+}
